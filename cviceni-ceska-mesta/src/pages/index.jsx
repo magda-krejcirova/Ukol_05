@@ -14,7 +14,7 @@ const CityElements = () => (
         photo={mesto.photo}
         district={mesto.district}
         population={mesto.population} 
-        area={mesto.area} />)
+        area={mesto.area} />),
       )}
   </div>
 )
